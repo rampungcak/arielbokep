@@ -44,7 +44,7 @@ export default function RootLayout({
             "name":"admin",
             "url":"https://arielbokep.pages.dev"
             },
-            "foundingDate":"2024-10-17"
+            "foundingDate":"2025-02-18"
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
